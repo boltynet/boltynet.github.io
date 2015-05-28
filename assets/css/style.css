@@ -1046,6 +1046,10 @@ dd {
 .posts li h3 {
     margin: 0 0 .5em
 }
+.posts .readmore {
+    font-size: .8em;
+    padding-left: 0.5em;
+}
 @media only screen and (min-width: 800px) {
     .content {
         padding-top: 0;
