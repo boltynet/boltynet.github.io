@@ -864,7 +864,7 @@ dd {
 }
 .post .meta {
     text-align: center;
-    color: gray;
+    color: #333;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 300
 }
@@ -1038,7 +1038,7 @@ dd {
 .posts li a:hover {
 }
 .posts li .date {
-    color: gray;
+    color: #333;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: .8em
@@ -1223,6 +1223,9 @@ dd {
     .postNav .next {
         text-align: right;
         float: right
+    }
+    .post #disqus_thread {
+        margin-top: 3em;
     }
     .footer-links {
         float: right
