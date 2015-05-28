@@ -25,3 +25,11 @@ social:
    email: stacy@bolty.net
 
 google_analytics: "UA-4912070-2"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
