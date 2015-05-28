@@ -1,5 +1,5 @@
 title: bolty.net
-description: motorcycles, yay!
+description: motorcycles and stuff
 
 url: http://bolty.net
 baseurl: ""
@@ -18,10 +18,10 @@ navigation:
  - title: Contact
    url: /contact.html
  - title: SV650
-   url: /sv650
+   url: /sv650.html
 
 social:
    twitter: boltynet
    email: stacy@bolty.net
 
-google_analytics: "UA-58263416-1xxx"
+google_analytics: "UA-4912070-2"
