@@ -1,4 +1,12 @@
 - slug: musings
   name: Musings
+- slug: rides
+  name: Rides
+- slug: gear
+  name: Gear
 - slug: sv650
   name: SV650
+- slug: tiger-explorer
+  name: Tiger Explorer
+- slug: dr200
+  name: DR200
