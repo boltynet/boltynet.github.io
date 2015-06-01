@@ -28,7 +28,6 @@ social:
 google_analytics: "UA-4912070-2"
 
 disqus_shortname: boltynet
-disqus_dev_mode: 1
 
 defaults:
   -
