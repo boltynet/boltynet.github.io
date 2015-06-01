@@ -2,7 +2,7 @@
 layout: post
 title: "We're Baaaaacckk!"
 description: There I was, minding my own business, working, shopping for groceries, walking the dog, and before I knew it, I hadn't ridden a motorcycle in over a year and a half.
-date: 2015-05-29
+date: 2015-05-29 14:30:00 -0700
 tags: [ musings ]
 ---
 

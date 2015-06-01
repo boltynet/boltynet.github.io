@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "To Be Fitted By a Trained Mechanic"
-date: 2015-06-01
+date: 2015-06-01 13:40:00 -0700
 tags: [ musings ]
 ---
 

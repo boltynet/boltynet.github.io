@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Beast Followed Me Home"
-date: 2015-05-31
+date: 2015-05-31 14:54:00 -0700
 description: 'I never planned on buying a "big bike", especially one that weighs over 500 pounds. In fact, I always kind of pooh-poohed the Escalades of the motorcycle world: too big, too tall, too "ADV" for me.'
 tags: [ musings, tiger-explorer ]
 ---
