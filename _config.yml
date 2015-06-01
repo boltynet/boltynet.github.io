@@ -14,11 +14,11 @@ navigation:
  - title: Home
    url: /
  - title: About
-   url: /about.html
+   url: /about
  - title: Contact
-   url: /contact.html
+   url: /contact
  - title: SV650
-   url: /sv650.html
+   url: /sv650
 
 social:
    rss: http://feeds.feedburner.com/bolty/feed
