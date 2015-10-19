@@ -3,7 +3,7 @@ layout: post
 title: "How To Change the Oil In Your SV650"
 date: 2015-10-17 16:30:00 -0700
 tags: [ wrenching, sv650 ]
-description: 'Do you take your bike to a dealership to get your oil changed? Does the sticker shock make your eyes water? Well cry no more, because after you finish reading this guide, you'll know everything you need to keep your engine bits lubricated and your wallet fat and happy.'
+description: "Do you take your bike to a dealership to get your oil changed? Does the sticker shock make your eyes water? Well cry no more, because after you finish reading this guide, you'll know everything you need to keep your engine bits lubricated and your wallet fat and happy."
 comments: true
 ---
 

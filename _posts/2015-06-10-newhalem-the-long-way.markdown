@@ -2,6 +2,7 @@
 layout: post
 title: "Newhalem The Long Way"
 date: 2015-06-10 22:25:00 -0700
+description: "I just spent a long weekend wandering around central Washington, flirting with Canada, and generally getting acquainted with Beast and its touring capabilities."
 tags: [ travels, tiger-explorer ]
 ---
 

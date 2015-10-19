@@ -2,8 +2,8 @@
 layout: post
 title: "Triumph Tiger Explorer Ignition Switched Power"
 date: 2015-06-12 13:00:00 -0700
+description: "If you're looking to add electrical accessories to your Tiger Explorer, you're going to want to use a fuseblock. And if you're installing a fuseblock, you'll need a source for ignition switched power. Here's one place to find it on the Tiger Explorer without needing to cut into the factory harness."
 tags: [ wrenching, tiger-explorer ]
-description: 'If you're looking to add electrical accessories to your Tiger Explorer, you're going to want to use a fuseblock. And if you're installing a fuseblock, you'll need a source for ignition switched power. Here's one place to find it on the Tiger Explorer without needing to cut into the factory harness.'
 ---
 
 <p class="intro"><span class="dropcap">I</span>f you're looking to add electrical accessories to your Tiger Explorer, you're going to want to use a fuseblock. And if you're installing a fuseblock, you'll need a source for ignition switched power. Here's one place to find it on the Tiger Explorer without needing to cut into the factory harness.</p>
