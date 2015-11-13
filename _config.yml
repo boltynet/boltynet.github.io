@@ -1,7 +1,7 @@
-title: bolty.net
+title: Devour Miles
 description: motorcycles and stuff
 
-url: http://bolty.net
+url: http://devourmiles.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
