@@ -2,7 +2,7 @@
 
 ## Contact Stacy
 
-* Email: stacy@bolty.net
+* Email: stacy@devourmiles.com
 * Twitter: [@boltynet](http://twitter.com/boltynet)
 
 ## Colophon
