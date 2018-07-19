@@ -2,7 +2,6 @@
 GLOBAL STYLES
 ***************/
 
-// A better box-sizing practice http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
 html {
   box-sizing: border-box;
 }
@@ -11,11 +10,12 @@ html {
 }
 
 body {
-	font-family: $serif; 
-	line-height: 1.75;  
+	font-family: $serif;
+	line-height: 1.75;
 	font-size: 112.5%; // 18px base font size
 	color: $black;
 	overflow-x: hidden;
+  margin: 0;
 
 	p , ul {
 		margin: 0 0 2rem;
@@ -40,8 +40,10 @@ img,video,audio,iframe,object{
 
 // Layout
 .container {
-	@include container(610px); 
+  max-width: 610px;
 	padding: 0 20px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 
@@ -67,16 +69,16 @@ MENU STYLING
 
 	ul {
 	  margin: 0;
-	  padding: 0; 
+	  padding: 0;
 	  width: 100%;
-	  display: block; 
+	  display: block;
 	  list-style: none;
 
 		li {
 		  width: 100%;
 		  display: block;
-		  background: seagreen;
-		  border-bottom: 2px solid lighten(seagreen, 5%);
+		  background: $background-color;
+		  border-bottom: 2px solid lighten($background-color, 5%);
 
 		  a {
 		  	color: white;
@@ -114,18 +116,18 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: seagreen;
+  background-color: $background-color;
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
   text-decoration: none;
   position: relative;
   right: 2rem;
-  @include transition(all 0.2s ease-in-out);
+  transition: all 0.2s ease-in-out;
 
   &:hover {
-  	color: white; 
-  	background-color: darken(seagreen, 10%);
+  	color: white;
+  	background-color: darken($background-color, 10%);
   }
 }
 
@@ -148,6 +150,13 @@ dd {
 	margin: 0 0 1.5rem;
 }
 
+.post ul ul,
+.post ul ol,
+.post ol ul,
+.post ol ol {
+  margin: 0;
+}
+
 
 /***************
 PAGE STYLES
@@ -155,22 +164,21 @@ PAGE STYLES
 
 .pageTitle {
 	margin: 2rem auto 1em;
-	text-align: center; 
+	text-align: center;
 }
 
 .content {
 	padding-top: 1em;
 }
 
-
 /***************
 HEADER STYLING
 ***************/
 
 .header {
-	background-color: seagreen;
-	background-image: url('../img/touring.jpg');
-	background-size: cover; 
+	background-color: $background-color;
+	background-image: url('../img/playa.jpg');
+	background-size: cover;
 	background-position: center center;
 	color: white;
 	padding: 0;
@@ -178,7 +186,7 @@ HEADER STYLING
 
 	.container {
 		padding: 0;
-		@include container(100%);
+    max-width: 100%;
 	}
 
 	h1 {
@@ -193,7 +201,7 @@ HEADER STYLING
 
 		a {
 			color: white;
-			text-decoration: none; 
+			text-decoration: none;
 		}
 	}
 }
@@ -209,6 +217,10 @@ POST STYLING
 		text-align: center;
 		margin-top: 2rem;
 		margin-bottom: 1rem;
+
+        a {
+            text-decoration: none;
+        }
 	}
 
 	blockquote {
@@ -222,7 +234,7 @@ POST STYLING
 			content: "";
 			position: absolute;
 			top: -1.25em;
-			background: seagreen;
+			background: $background-color;
 			display: block;
 			height: 2px;
 			width: 150px;
@@ -233,12 +245,12 @@ POST STYLING
 			content: "";
 			position: absolute;
 			bottom: -1.25em;
-			background: seagreen;
+			background: $background-color;
 			display: block;
 			height: 2px;
 			width: 150px;
 			left: calc(50% - 75px);
-		}		
+		}
 	}
 
 	.meta {
@@ -255,7 +267,7 @@ POST STYLING
 			text-align: center;
 			font-size: .9em;
 			font-style: italic;
-			color: lighten($black, 30%); 
+			color: lighten($black, 30%);
 		}
 
 		img {
@@ -315,11 +327,9 @@ POST NAV STYLING
 			display: block;
 			position: absolute;
 			top: 50%;
-			-webkit-transform: translateY(-50%);
-			-ms-transform: translateY(-50%);
 			transform: translateY(-50%);
 			left: 0;
-			width: 100%;.
+			width: 100%;
 			height: auto;
 		}
 
@@ -329,8 +339,6 @@ POST NAV STYLING
 			padding: .5rem;
 			position: absolute;
 			top: 50%;
-			-webkit-transform: translateY(-50%);
-			-ms-transform: translateY(-50%);
 			transform: translateY(-50%);
 			width: 100%;
 			line-height: 1.4;
@@ -342,7 +350,7 @@ POST NAV STYLING
 			text-shadow: 1px 1px 3px rgba(0,0,0,.8);
 			padding: 0 .5rem;
 			position: relative;
-			@include transition(all 0.2s ease-in-out);
+			transition: all 0.2s ease-in-out;
 		}
 
 		&:hover {
@@ -373,15 +381,16 @@ FOOTER STYLING
 .footer {
 	text-align: center;
 	padding: 2rem 0;
+	clear: both;
 
 	.container {
 		border-top: 4px solid darken(white, 15%);
 		padding-top: .5em;
-		@include container(90%);
+    max-width: 90%;
 	}
 
 	.copy, .footer-links {
-		font-size: .8em; 
+		font-size: .8em;
 	}
 
 	.copy {
@@ -398,8 +407,8 @@ FOOTER STYLING
 				a {
 					display: inline-block;
 					width: 30px;
-					height: 30px; 
-					@include transition(all 0.2s ease-in-out);
+					height: 30px;
+					transition: all 0.2s ease-in-out;
 
 					svg {
 						display: block;
@@ -410,16 +419,16 @@ FOOTER STYLING
 							fill: $primary-color;
 						}
 
-						.inner-shape { 
+						.inner-shape {
 							fill: white;
 						}
 					}
 				}
 
 
-				&:hover { 
+				&:hover {
 					a {
-						svg { 
+						svg {
 							.outer-shape {
 								fill: darken($primary-color, 10%);
 							}
@@ -435,8 +444,8 @@ FOOTER STYLING
 /***************
 PAGINATION STYLING
 ***************/
- 
-.pagination { 
+
+.pagination {
 	.next {
 		float: left;
 	}
@@ -451,7 +460,7 @@ PAGINATION STYLING
 POST LIST STYLING
 ***************/
 
-.posts {		
+.posts {
 	li {
 		margin-bottom: 4rem;
 		position: relative;
@@ -470,7 +479,7 @@ POST LIST STYLING
 			text-decoration: none;
 
 			&:hover {
-				text-decoration: underline;
+				text-decoration: none;
 			}
 		}
 
