@@ -8,6 +8,7 @@ permalink: blog/:title/
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 markdown: kramdown
 highlighter: rouge
@@ -45,3 +46,13 @@ defaults:
       type: "posts"
     values:
       comments: true
+
+exclude:
+  - node_modules
+  - README.md
+  - CNAME
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
