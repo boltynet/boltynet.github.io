@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How To Clean the Chain On Your SV650"
-date: 2018-07-19 16:27:44 -0700
+date: 2018-07-20 08:30:44 -0700
 tags: [ wrenching, sv650 ]
 description: Want to get the most miles out of your chain and sprockets? Clean and lube your chain regularly. It's that simple.
-comments: false
+comments: true
 ---
 
 <p class="intro"><span class="dropcap">W</span>ant to get the most miles out of your chain and sprockets? Clean and lube your chain regularly. It's that simple.</p>
