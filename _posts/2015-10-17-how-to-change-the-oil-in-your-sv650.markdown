@@ -11,7 +11,7 @@ comments: true
 
 This guide is written for those who are new to wrenching. As such, it's written at an exhaustive level of detail. <strong>If you're experienced at performing your own maintenance, click here to <a href="#summary">skip right to the summary.</a></strong>
 
-In this guide, we will change the oil and oil filter on a 2007 SV650. These instructions should work for all years and models of SV650, though if you own a fully-faired (SF) model, you may need to remove some plastic. For the final word, consult your owner's manual.
+In this guide, we will change the oil and oil filter on a 2007 SV650. These instructions will work for [1st or 2nd gen SV650](https://en.wikipedia.org/wiki/Suzuki_SV650) bikes, though if you own a fully-faired (SF) model, you may need to remove some plastic. For the final word, consult your owner's manual.
 
 ### Step 1: Gather the Required Tools and Materials
 
@@ -205,7 +205,7 @@ Before the check, the oil level read full. Now it's half-empty. This is why it's
 
 <figure><a href="https://tbolt.smugmug.com/photos/i-7VwjJZD/0/O/i-7VwjJZD.jpg"><img src="https://tbolt.smugmug.com/photos/i-7VwjJZD/0/M/i-7VwjJZD-M.jpg"/></a></figure>
 
-Tighten the filler cap, and your job is done! Don't be discouraged if your first attempt takes you a long time. Keep changing your oil yourself and you'll find that it takes less than 20 minutes and costs around $10 (depending on which oil you buy). Now that's a price I can live with!
+Tighten the filler cap, and your job is done! Don't be discouraged if your first attempt takes you a long time. Keep changing your oil yourself and you'll find that it takes less than 20 minutes and costs around $15 (depending on which oil you buy). Now that's a price I can live with!
 
 ### <a id="summary">Summary</a>
 
