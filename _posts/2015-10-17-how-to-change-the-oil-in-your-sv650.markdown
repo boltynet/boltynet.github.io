@@ -13,7 +13,7 @@ This guide is written for those who are new to wrenching. As such, it's written 
 
 In this guide, we will change the oil and oil filter on a 2007 SV650. These instructions should work for all years and models of SV650, though if you own a fully-faired (SF) model, you may need to remove some plastic. For the final word, consult your owner's manual.
 
-###Step 1: Gather the Required Tools and Materials
+### Step 1: Gather the Required Tools and Materials
 
 * 14mm wrench or socket
 * 2.4 quarts oil (2.9 quarts if changing oil filter)
@@ -49,13 +49,13 @@ Look for the API Service symbol on the back of the oil container. If the oil is 
 
 <figure><a href="https://tbolt.smugmug.com/photos/i-gZ4Rb7d/0/O/i-gZ4Rb7d.jpg"><img src="https://tbolt.smugmug.com/photos/i-gZ4Rb7d/0/M/i-gZ4Rb7d-M.jpg"/></a></figure>
 
-###Step 2: Go For a Ride
+### Step 2: Go For a Ride
 
 Put on your gear and go for a ride for 15 to 20 minutes or so. You want to get the oil warmed up and moving so that it'll drain freely from the engine, but not too hot that it'll burn you if you accidentally touch it.
 
 Park your motorcycle in a nice flat work area and put it on its sidestand. If you have a rear stand, I highly recommend using it.
 
-###Step 3: Unscrew the Filler Cap
+### Step 3: Unscrew the Filler Cap
 
 Locate the oil filler cap on the right side of the engine.
 
@@ -63,7 +63,7 @@ Locate the oil filler cap on the right side of the engine.
 
 Remove the cap and set it aside someplace where it won't get dirty. You'll want to keep this area as clean as possible so contaminants don't get into the engine.
 
-###Step 4: Locate the Drain Plug
+### Step 4: Locate the Drain Plug
 
 On the left side of the bike, the drain plug is located aft of the oil filter and below the big plate stamped with a numerical code.
 
@@ -73,7 +73,7 @@ Here's the drain plug up close and personal:
 
 <figure><a href="https://tbolt.smugmug.com/photos/i-Mxb2D9Z/0/O/i-Mxb2D9Z.jpg"><img src="https://tbolt.smugmug.com/photos/i-Mxb2D9Z/0/M/i-Mxb2D9Z-M.jpg"/></a></figure>
 
-###Step 5: Loosen the Drain Plug
+### Step 5: Loosen the Drain Plug
 
 Place the drain pan in a location directly below the drain plug. To loosen the plug, turn the wrench <strong>clockwise</strong>.
 
@@ -97,7 +97,7 @@ The drain plug can be loosened quite a ways before the oil will come out. Once y
 
 Once the bolt is removed, let the oil drain into the pan.
 
-###Step 6: Drain Oil and Clean the Drain Plug
+### Step 6: Drain Oil and Clean the Drain Plug
 
 While the oil is draining, I like to take some time to clean the drain plug. It's usually quite dirty:
 
@@ -109,13 +109,13 @@ Here's the result after a little bit of elbow grease:
 
 <figure><a href="https://tbolt.smugmug.com/photos/i-HSqNNkD/0/O/i-HSqNNkD.jpg"><img src="https://tbolt.smugmug.com/photos/i-HSqNNkD/0/M/i-HSqNNkD-M.jpg"/></a></figure>
 
-###Step 7: Change the Crush Washer
+### Step 7: Change the Crush Washer
 
 Careful observers will note that there's something missing in the previous picture. In the first picture, the bolt has a small washer. In the second picture, the washer has been removed. This washer is called a <strong>crush washer</strong> and is used to ensure a tight seal when tightening up the drain plug. The very last thing you want while on a ride is to lose your oil plug! The crush washer also helps prevent over-tightening the drain plug, which will result in stripped threads.
 
 The crush washer is designed to collapse (i.e. crush) when tightened, thus its name. As a result, crush washers are meant to be used only once. Others may tell you that you can get away with re-using your crush washers, but to be on the safe side, change the crush washer every oil change. The SV650 drain plug requires an M12 size crush washer, which can be bought at your local dealership for pennies. I usually buy a bunch all at once.
 
-###Step 8: Tighten the Drain Plug
+### Step 8: Tighten the Drain Plug
 
 By this time, the oil should be almost completely drained. A few drips of dirty oil here and there can be expected unless you want to let things sit for several hours. Since we're in this to save time and money, go ahead and put the drain plug back in its place. Tighten the plug by turning it <strong>counter-clockwise</strong> with your fingers as far as you can, then use a wrench for the final tightening.
 
@@ -125,7 +125,7 @@ In this picture, I am pushing the wrench away from me to tighten the plug. You d
 
 If you don't need to change the oil filter, click here to <a href="#fillwithcleanoil">skip to the next step</a>.
 
-###<a id="oilfilter">Step 9: Remove the Oil Filter</a>
+### <a id="oilfilter">Step 9: Remove the Oil Filter</a>
 
 First, make sure you have the necessary items: a <strong>new oil filter</strong>, the correct <strong>oil filter wrench</strong> (Suzuki part # 09915-40611) and a <strong>3/8 socket wrench</strong>. A strap wrench will do if you don't have the Suzuki filter wrench.
 
@@ -135,7 +135,7 @@ Here's what a new oil filter looks like out of the box:
 
 <figure><a href="https://tbolt.smugmug.com/photos/i-mdSHrvC/0/O/i-mdSHrvC.jpg"><img src="https://tbolt.smugmug.com/photos/i-mdSHrvC/0/M/i-mdSHrvC-M.jpg"/></a></figure>
 
-Situate your drain pan directly underneath the spot where the oil filter meets the engine. Then, place the filter wrench on the end of the old oil filter and use the socket wrench to loosen things up.
+Situate your drain pan directly underneath the spot where the oil filter meets the engine. Then, place the filter wrench on the end of the old oil filter and use the socket wrench to turn the filter counter-clockwise to loosen it.
 
 <figure><a href="https://tbolt.smugmug.com/photos/i-zZMXNTD/0/O/i-zZMXNTD.jpg"><img src="https://tbolt.smugmug.com/photos/i-zZMXNTD/0/M/i-zZMXNTD-M.jpg"/></a></figure>
 
@@ -151,7 +151,7 @@ Here's the old oil filter. Don't tip it over or dirty oil will come out! If you 
 
 <figure><a href="https://tbolt.smugmug.com/photos/i-tF3XNw9/0/O/i-tF3XNw9.jpg"><img src="https://tbolt.smugmug.com/photos/i-tF3XNw9/0/M/i-tF3XNw9-M.jpg"/></a></figure>
 
-###Step 10: Install the New Oil Filter
+### Step 10: Install the New Oil Filter
 
 While the last of the dirty oil is draining, unwrap the new filter and pour some of your clean motor oil into a small container.
 
@@ -165,7 +165,7 @@ Now, take a clean shop towel and thoroughly clean the filter mounting surface. I
 
 <figure><a href="https://tbolt.smugmug.com/photos/i-ZcHRXVz/0/O/i-ZcHRXVz.jpg"><img src="https://tbolt.smugmug.com/photos/i-ZcHRXVz/0/M/i-ZcHRXVz-M.jpg"/></a></figure>
 
-Screw on the new oil filter by hand until the gasket <strong>just touches the mounting surface</strong>.
+Put the new oil filter against the threaded end and turn it clockwise by hand until the gasket <strong>just touches the mounting surface</strong>.
 
 <figure><a href="https://tbolt.smugmug.com/photos/i-SffgKxK/0/O/i-SffgKxK.jpg"><img src="https://tbolt.smugmug.com/photos/i-SffgKxK/0/M/i-SffgKxK-M.jpg"/></a></figure>
 
@@ -179,7 +179,7 @@ Put the wrench on the end of the filter, like so:
 
 Tighten the filter 2 full turns. If you have a torque wrench, you can tighten it to 20N&middot;n (2.0 kgf-m, 14.5 lb-ft). That's it for the filter.
 
-###<a id="fillwithcleanoil">Step 11: Fill With Clean Oil</a>
+### <a id="fillwithcleanoil">Step 11: Fill With Clean Oil</a>
 
 Now we're on the home stretch and it's time to fill the engine with new oil. Remember what I said about keeping the oil filler area clean? I like to take the additional step of very carefully cleaning around the filler opening with a clean rag.
 
@@ -207,7 +207,7 @@ Before the check, the oil level read full. Now it's half-empty. This is why it's
 
 Tighten the filler cap, and your job is done! Don't be discouraged if your first attempt takes you a long time. Keep changing your oil yourself and you'll find that it takes less than 20 minutes and costs around $10 (depending on which oil you buy). Now that's a price I can live with!
 
-###<a id="summary">Summary</a>
+### <a id="summary">Summary</a>
 
 Materials needed:
 
