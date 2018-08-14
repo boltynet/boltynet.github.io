@@ -27,7 +27,7 @@ If changing the oil filter, you'll also need
 * oil filter wrench (Suzuki part # 09915-40611) -- a generic oil filter wrench or strap wrench for smaller filters will also work too
 * 3/8 socket wrench
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-kTwVFXb/0/O/i-kTwVFXb.jpg"><img src="https://tbolt.smugmug.com/photos/i-kTwVFXb/0/M/i-kTwVFXb-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-kTwVFXb/0/O/i-kTwVFXb.jpg"><img src="https://tbolt.smugmug.com/photos/i-kTwVFXb/0/XL/i-kTwVFXb-XL.jpg"/></a></figure>
 
 The <strong>clean funnel</strong> will be used when pouring the new oil into the engine.
 
@@ -35,19 +35,19 @@ The wrench shown in the picture is a <strong>14mm, 6pt combination wrench</stron
 
 Sometimes, especially if you've had your dealer change your oil, the drain plug will be torqued (tightened) way too tight. The length of <strong>PVC pipe</strong> shown in the picture is my way of dealing with such nuisances. If you can't loosen the drain bolt using the wrench alone, you can use the pipe for additional leverage.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-kbHTDpN/0/O/i-kbHTDpN.jpg"><img src="https://tbolt.smugmug.com/photos/i-kbHTDpN/0/M/i-kbHTDpN-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-kbHTDpN/0/O/i-kbHTDpN.jpg"><img src="https://tbolt.smugmug.com/photos/i-kbHTDpN/0/XL/i-kbHTDpN-XL.jpg"/></a></figure>
 
 An <strong>oil drain pan</strong> is used to catch the dirty oil as it drains from the engine. I like this style of drain pan because it makes transporting the used oil to an oil recycling center easy. It also includes a grate to keep the drain plug from dropping down into the oil. No more fishing for drain plugs!
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-DLtLrnJ/0/O/i-DLtLrnJ.jpg"><img src="https://tbolt.smugmug.com/photos/i-DLtLrnJ/0/M/i-DLtLrnJ-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-DLtLrnJ/0/O/i-DLtLrnJ.jpg"><img src="https://tbolt.smugmug.com/photos/i-DLtLrnJ/0/XL/i-DLtLrnJ-XL.jpg"/></a></figure>
 
 A basic oil change (not including changing the oil filter) requires approximately <strong>2.4 quarts of oil</strong>. If you're changing the oil filter too, you'll need 2.9 quarts. I prefer Castrol GTX 10W-40 oil. This is a conventional, non-synthetic, petroleum-based oil made for automobiles. As Motorcycle Consumer News likes to say, "oil is a slippery subject," and which oil is "best" is a controversial subject indeed. In general, as long as the oil is <strong>not marked as Energy Conserving</strong>, it should be fine for use in your motorcycle.
 
 Look for the API Service symbol on the back of the oil container. If the oil is energy conserving, it will be printed in the bottom half of the doughnut.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-P46SKZV/0/O/i-P46SKZV.png"><img src="https://tbolt.smugmug.com/photos/i-P46SKZV/0/M/i-P46SKZV-M.png"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-P46SKZV/0/O/i-P46SKZV.png"><img src="https://tbolt.smugmug.com/photos/i-P46SKZV/0/XL/i-P46SKZV-XL.png"/></a></figure>
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-gZ4Rb7d/0/O/i-gZ4Rb7d.jpg"><img src="https://tbolt.smugmug.com/photos/i-gZ4Rb7d/0/M/i-gZ4Rb7d-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-gZ4Rb7d/0/O/i-gZ4Rb7d.jpg"><img src="https://tbolt.smugmug.com/photos/i-gZ4Rb7d/0/XL/i-gZ4Rb7d-XL.jpg"/></a></figure>
 
 ### Step 2: Go For a Ride
 
@@ -59,7 +59,7 @@ Park your motorcycle in a nice flat work area and put it on its sidestand. If yo
 
 Locate the oil filler cap on the right side of the engine.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-jkxxTFL/0/O/i-jkxxTFL.jpg"><img src="https://tbolt.smugmug.com/photos/i-jkxxTFL/0/M/i-jkxxTFL-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-jkxxTFL/0/O/i-jkxxTFL.jpg"><img src="https://tbolt.smugmug.com/photos/i-jkxxTFL/0/XL/i-jkxxTFL-XL.jpg"/></a></figure>
 
 Remove the cap and set it aside someplace where it won't get dirty. You'll want to keep this area as clean as possible so contaminants don't get into the engine.
 
@@ -67,33 +67,33 @@ Remove the cap and set it aside someplace where it won't get dirty. You'll want 
 
 On the left side of the bike, the drain plug is located aft of the oil filter and below the big plate stamped with a numerical code.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-zNSN5dV/0/O/i-zNSN5dV.jpg"><img src="https://tbolt.smugmug.com/photos/i-zNSN5dV/0/M/i-zNSN5dV-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-zNSN5dV/0/O/i-zNSN5dV.jpg"><img src="https://tbolt.smugmug.com/photos/i-zNSN5dV/0/XL/i-zNSN5dV-XL.jpg"/></a></figure>
 
 Here's the drain plug up close and personal:
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-Mxb2D9Z/0/O/i-Mxb2D9Z.jpg"><img src="https://tbolt.smugmug.com/photos/i-Mxb2D9Z/0/M/i-Mxb2D9Z-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-Mxb2D9Z/0/O/i-Mxb2D9Z.jpg"><img src="https://tbolt.smugmug.com/photos/i-Mxb2D9Z/0/XL/i-Mxb2D9Z-XL.jpg"/></a></figure>
 
 ### Step 5: Loosen the Drain Plug
 
 Place the drain pan in a location directly below the drain plug. To loosen the plug, turn the wrench <strong>clockwise</strong>.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-DxzGzf4/0/O/i-DxzGzf4.jpg"><img src="https://tbolt.smugmug.com/photos/i-DxzGzf4/0/M/i-DxzGzf4-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-DxzGzf4/0/O/i-DxzGzf4.jpg"><img src="https://tbolt.smugmug.com/photos/i-DxzGzf4/0/XL/i-DxzGzf4-XL.jpg"/></a></figure>
 
 In the above picture, I am pulling the wrench toward me. From this vantage point, the drain plug is upside down so "righty tighty, lefty loosy" is actually reversed. If you prefer to lay on your back and look up at the bolt, you will need to turn your wrench counter-clockwise to loosen it and clockwise to tighten it.
 
 If the drain plug refuses to loosen despite your best efforts, take the length of PVC pipe and slip it over the end of the wrench like so:
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-9vhTnrX/0/O/i-9vhTnrX.jpg"><img src="https://tbolt.smugmug.com/photos/i-9vhTnrX/0/M/i-9vhTnrX-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-9vhTnrX/0/O/i-9vhTnrX.jpg"><img src="https://tbolt.smugmug.com/photos/i-9vhTnrX/0/XL/i-9vhTnrX-XL.jpg"/></a></figure>
 
 The extra inches provided by the pipe will often give you enough additional leverage to free a stubborn bolt. Be careful, and if you still have problems, ask for help!
 
 Once you've got the drain plug loosened, you can set the wrench aside and, if the plug's not too hot, unscrew it with your fingers. Test the temperature of the plug first before you touch it with your bare hands.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-zR39RSm/0/O/i-zR39RSm.jpg"><img src="https://tbolt.smugmug.com/photos/i-zR39RSm/0/M/i-zR39RSm-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-zR39RSm/0/O/i-zR39RSm.jpg"><img src="https://tbolt.smugmug.com/photos/i-zR39RSm/0/XL/i-zR39RSm-XL.jpg"/></a></figure>
 
 The drain plug can be loosened quite a ways before the oil will come out. Once you're past this point or so, slow down turning the bolt because it could drop at any moment. If you don't mind getting your hands dirty, you can keep turning the bolt by hand, or use the wrench.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-xFHPDmL/0/O/i-xFHPDmL.jpg"><img src="https://tbolt.smugmug.com/photos/i-xFHPDmL/0/M/i-xFHPDmL-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-xFHPDmL/0/O/i-xFHPDmL.jpg"><img src="https://tbolt.smugmug.com/photos/i-xFHPDmL/0/XL/i-xFHPDmL-XL.jpg"/></a></figure>
 
 Once the bolt is removed, let the oil drain into the pan.
 
@@ -101,13 +101,13 @@ Once the bolt is removed, let the oil drain into the pan.
 
 While the oil is draining, I like to take some time to clean the drain plug. It's usually quite dirty:
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-vkxXG7Q/0/O/i-vkxXG7Q.jpg"><img src="https://tbolt.smugmug.com/photos/i-vkxXG7Q/0/M/i-vkxXG7Q-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-vkxXG7Q/0/O/i-vkxXG7Q.jpg"><img src="https://tbolt.smugmug.com/photos/i-vkxXG7Q/0/XL/i-vkxXG7Q-XL.jpg"/></a></figure>
 
 That black sludge at the tip of the plug is actually metallic particles. The drain plug on the SV650 has a small magnet at the end to catch and hold these particles and keep them from floating around inside the engine. That's why I'm a firm believer in <strong>frequent oil changes make happy engines.</strong>
 
 Here's the result after a little bit of elbow grease:
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-HSqNNkD/0/O/i-HSqNNkD.jpg"><img src="https://tbolt.smugmug.com/photos/i-HSqNNkD/0/M/i-HSqNNkD-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-HSqNNkD/0/O/i-HSqNNkD.jpg"><img src="https://tbolt.smugmug.com/photos/i-HSqNNkD/0/XL/i-HSqNNkD-XL.jpg"/></a></figure>
 
 ### Step 7: Change the Crush Washer
 
@@ -119,7 +119,7 @@ The crush washer is designed to collapse (i.e. crush) when tightened, thus its n
 
 By this time, the oil should be almost completely drained. A few drips of dirty oil here and there can be expected unless you want to let things sit for several hours. Since we're in this to save time and money, go ahead and put the drain plug back in its place. Tighten the plug by turning it <strong>counter-clockwise</strong> with your fingers as far as you can, then use a wrench for the final tightening.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-NBLT3vR/0/O/i-NBLT3vR.jpg"><img src="https://tbolt.smugmug.com/photos/i-NBLT3vR/0/M/i-NBLT3vR-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-NBLT3vR/0/O/i-NBLT3vR.jpg"><img src="https://tbolt.smugmug.com/photos/i-NBLT3vR/0/XL/i-NBLT3vR-XL.jpg"/></a></figure>
 
 In this picture, I am pushing the wrench away from me to tighten the plug. You don't want to tighten the plug so tight that you'll need to use the pipe to get it off the next time you change the oil, but you also don't want it to be too loose or it'll work itself back out. With practice, you'll find the happy medium.
 
@@ -129,53 +129,53 @@ If you don't need to change the oil filter, click here to <a href="#fillwithclea
 
 First, make sure you have the necessary items: a <strong>new oil filter</strong>, the correct <strong>oil filter wrench</strong> (Suzuki part # 09915-40611) and a <strong>3/8 socket wrench</strong>. A strap wrench will do if you don't have the Suzuki filter wrench.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-MWp85DC/0/O/i-MWp85DC.jpg"><img src="https://tbolt.smugmug.com/photos/i-MWp85DC/0/M/i-MWp85DC-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-MWp85DC/0/O/i-MWp85DC.jpg"><img src="https://tbolt.smugmug.com/photos/i-MWp85DC/0/XL/i-MWp85DC-XL.jpg"/></a></figure>
 
 Here's what a new oil filter looks like out of the box:
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-mdSHrvC/0/O/i-mdSHrvC.jpg"><img src="https://tbolt.smugmug.com/photos/i-mdSHrvC/0/M/i-mdSHrvC-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-mdSHrvC/0/O/i-mdSHrvC.jpg"><img src="https://tbolt.smugmug.com/photos/i-mdSHrvC/0/XL/i-mdSHrvC-XL.jpg"/></a></figure>
 
 Situate your drain pan directly underneath the spot where the oil filter meets the engine. Then, place the filter wrench on the end of the old oil filter and use the socket wrench to turn the filter counter-clockwise to loosen it.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-zZMXNTD/0/O/i-zZMXNTD.jpg"><img src="https://tbolt.smugmug.com/photos/i-zZMXNTD/0/M/i-zZMXNTD-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-zZMXNTD/0/O/i-zZMXNTD.jpg"><img src="https://tbolt.smugmug.com/photos/i-zZMXNTD/0/XL/i-zZMXNTD-XL.jpg"/></a></figure>
 
 Once the oil filter turns freely, you can use your hand to slowly unscrew it. Dirty oil will begin draining almost immediately, so be careful.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-htgJ3FP/0/O/i-htgJ3FP.jpg"><img src="https://tbolt.smugmug.com/photos/i-htgJ3FP/0/M/i-htgJ3FP-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-htgJ3FP/0/O/i-htgJ3FP.jpg"><img src="https://tbolt.smugmug.com/photos/i-htgJ3FP/0/XL/i-htgJ3FP-XL.jpg"/></a></figure>
 
 Continue to slowly unscrew the filter until it comes free. Allow the dirty oil to keep draining.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-qjp3jB4/0/O/i-qjp3jB4.jpg"><img src="https://tbolt.smugmug.com/photos/i-qjp3jB4/0/M/i-qjp3jB4-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-qjp3jB4/0/O/i-qjp3jB4.jpg"><img src="https://tbolt.smugmug.com/photos/i-qjp3jB4/0/XL/i-qjp3jB4-XL.jpg"/></a></figure>
 
 Here's the old oil filter. Don't tip it over or dirty oil will come out! If you can, recycle it at an auto parts store or oil change place.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-tF3XNw9/0/O/i-tF3XNw9.jpg"><img src="https://tbolt.smugmug.com/photos/i-tF3XNw9/0/M/i-tF3XNw9-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-tF3XNw9/0/O/i-tF3XNw9.jpg"><img src="https://tbolt.smugmug.com/photos/i-tF3XNw9/0/XL/i-tF3XNw9-XL.jpg"/></a></figure>
 
 ### Step 10: Install the New Oil Filter
 
 While the last of the dirty oil is draining, unwrap the new filter and pour some of your clean motor oil into a small container.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-6TDpdDm/0/O/i-6TDpdDm.jpg"><img src="https://tbolt.smugmug.com/photos/i-6TDpdDm/0/M/i-6TDpdDm-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-6TDpdDm/0/O/i-6TDpdDm.jpg"><img src="https://tbolt.smugmug.com/photos/i-6TDpdDm/0/XL/i-6TDpdDm-XL.jpg"/></a></figure>
 
 Take some of the clean motor oil and rub it around the rubber gasket on the new filter.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-NcDCkwN/0/O/i-NcDCkwN.jpg"><img src="https://tbolt.smugmug.com/photos/i-NcDCkwN/0/M/i-NcDCkwN-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-NcDCkwN/0/O/i-NcDCkwN.jpg"><img src="https://tbolt.smugmug.com/photos/i-NcDCkwN/0/XL/i-NcDCkwN-XL.jpg"/></a></figure>
 
 Now, take a clean shop towel and thoroughly clean the filter mounting surface. It'll be a little tricky because the dirty oil will continue to seep out. You'll have to work quick.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-ZcHRXVz/0/O/i-ZcHRXVz.jpg"><img src="https://tbolt.smugmug.com/photos/i-ZcHRXVz/0/M/i-ZcHRXVz-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-ZcHRXVz/0/O/i-ZcHRXVz.jpg"><img src="https://tbolt.smugmug.com/photos/i-ZcHRXVz/0/XL/i-ZcHRXVz-XL.jpg"/></a></figure>
 
 Put the new oil filter against the threaded end and turn it clockwise by hand until the gasket <strong>just touches the mounting surface</strong>.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-SffgKxK/0/O/i-SffgKxK.jpg"><img src="https://tbolt.smugmug.com/photos/i-SffgKxK/0/M/i-SffgKxK-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-SffgKxK/0/O/i-SffgKxK.jpg"><img src="https://tbolt.smugmug.com/photos/i-SffgKxK/0/XL/i-SffgKxK-XL.jpg"/></a></figure>
 
 Now, you must note a reference point on the filter so you can keep track of the number of turns made as you tighten it. I made some scratches on my filter wrench to indicate top dead center.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-bz5H6Bv/0/O/i-bz5H6Bv.jpg"><img src="https://tbolt.smugmug.com/photos/i-bz5H6Bv/0/M/i-bz5H6Bv-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-bz5H6Bv/0/O/i-bz5H6Bv.jpg"><img src="https://tbolt.smugmug.com/photos/i-bz5H6Bv/0/XL/i-bz5H6Bv-XL.jpg"/></a></figure>
 
 Put the wrench on the end of the filter, like so:
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-nLvHKS3/0/O/i-nLvHKS3.jpg"><img src="https://tbolt.smugmug.com/photos/i-nLvHKS3/0/M/i-nLvHKS3-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-nLvHKS3/0/O/i-nLvHKS3.jpg"><img src="https://tbolt.smugmug.com/photos/i-nLvHKS3/0/XL/i-nLvHKS3-XL.jpg"/></a></figure>
 
 Tighten the filter 2 full turns. If you have a torque wrench, you can tighten it to 20N&middot;n (2.0 kgf-m, 14.5 lb-ft). That's it for the filter.
 
@@ -183,11 +183,11 @@ Tighten the filter 2 full turns. If you have a torque wrench, you can tighten it
 
 Now we're on the home stretch and it's time to fill the engine with new oil. Remember what I said about keeping the oil filler area clean? I like to take the additional step of very carefully cleaning around the filler opening with a clean rag.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-TVCXbVP/0/O/i-TVCXbVP.jpg"><img src="https://tbolt.smugmug.com/photos/i-TVCXbVP/0/M/i-TVCXbVP-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-TVCXbVP/0/O/i-TVCXbVP.jpg"><img src="https://tbolt.smugmug.com/photos/i-TVCXbVP/0/XL/i-TVCXbVP-XL.jpg"/></a></figure>
 
 Then, it's a simple matter of sticking the funnel into the hole and adding the new oil.
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-Ms8hJCs/0/O/i-Ms8hJCs.jpg"><img src="https://tbolt.smugmug.com/photos/i-Ms8hJCs/0/M/i-Ms8hJCs-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-Ms8hJCs/0/O/i-Ms8hJCs.jpg"><img src="https://tbolt.smugmug.com/photos/i-Ms8hJCs/0/XL/i-Ms8hJCs-XL.jpg"/></a></figure>
 
 If you've purchased quarts of oil, add the first two quarts and just a little bit of the third. Then stop and check the oil level as follows:
 
@@ -199,13 +199,13 @@ If you've purchased quarts of oil, add the first two quarts and just a little bi
 
 This is what the oil level looked like after my first check:
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-vVh5tZQ/0/O/i-vVh5tZQ.jpg"><img src="https://tbolt.smugmug.com/photos/i-vVh5tZQ/0/M/i-vVh5tZQ-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-vVh5tZQ/0/O/i-vVh5tZQ.jpg"><img src="https://tbolt.smugmug.com/photos/i-vVh5tZQ/0/XL/i-vVh5tZQ-XL.jpg"/></a></figure>
 
 Before the check, the oil level read full. Now it's half-empty. This is why it's important to take the time to check. Keep adding oil and checking the oil level until it reads full in the sight glass:
 
-<figure><a href="https://tbolt.smugmug.com/photos/i-7VwjJZD/0/O/i-7VwjJZD.jpg"><img src="https://tbolt.smugmug.com/photos/i-7VwjJZD/0/M/i-7VwjJZD-M.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/photos/i-7VwjJZD/0/O/i-7VwjJZD.jpg"><img src="https://tbolt.smugmug.com/photos/i-7VwjJZD/0/XL/i-7VwjJZD-XL.jpg"/></a></figure>
 
-Tighten the filler cap, and your job is done! Don't be discouraged if your first attempt takes you a long time. Keep changing your oil yourself and you'll find that it takes less than 20 minutes and costs around $15 (depending on which oil you buy). Now that's a price I can live with!
+Tighten the filler cap, and your job is done! Don't be discouraged if your first attempt takes you a long time. Keep changing your oil yourself and you'll find that it takes less than 20 minutes and costs around $20 (depending on which oil you buy). Now that's a price I can live with!
 
 ### <a id="summary">Summary</a>
 
