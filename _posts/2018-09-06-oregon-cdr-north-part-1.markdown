@@ -49,7 +49,7 @@ Still, it's hard to be in a bad mood when you wake up to this view.
 
 Then it was time for more GOOD BAD ROADS and more cackling with delight inside my lid, because dirty two-track is my favorite.
 
-<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-7s7s6gC/0/90c301e6/CSi%2BERrPhEVLrF9MTPLvCLcISv0%3D-1536357566-O/i-7s7s6gC.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-7s7s6gC/0/90c301e6/X2/20180902_122748-X2.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-7s7s6gC/1/c58a944b/%2BGswrFl9tpWnozPlavgagC%2AzW1U%3D-1536359303-O/i-7s7s6gC.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-7s7s6gC/1/c58a944b/X2/20180902_122748-X2.jpg"/></a></figure>
 
 I'm not a good off-road rider so the rock garden around Olallie Lake kicked my ass (sometimes literally as I was not confident enough to stand up on the pegs as much as I should have) but I didn't stop in terror and I didn't crash so that's a victory.
 
@@ -59,7 +59,7 @@ IMAGINE A GORGEOUS BLUE LAKE WITH A MAJESTIC MOUNTAIN HERE
 
 The rocks around Olallie Lake took one of 10guy's tool tubes as tribute. Hey, if you find a pouch full of tools out there let me know, eh?
 
-<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-Wc6Qz7w/0/d97adeab/0W1Lpc92MceibrpFnb6ESIG%2B5Yk%3D-1536357566-O/i-Wc6Qz7w.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-Wc6Qz7w/0/d97adeab/X2/20180902_162733-X2.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-Wc6Qz7w/1/7c5beb32/usppx485jBsjs2kXD%2AoPwWFEpV0%3D-1536359303-O/i-Wc6Qz7w.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-Wc6Qz7w/1/7c5beb32/X2/20180902_162733-X2.jpg"/></a></figure>
 
 We fueled up and resupplied in Detroit, and were back on our way around 5pm. I was pretty beat up from the rock garden but was hoping to ride until 6:30 or so, but after some sloppy riding on my part I knew I need to quit sooner. 10guy found a nice spot to camp off an abandoned road in the shadow of Coffin Mountain Lookout.
 
