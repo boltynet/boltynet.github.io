@@ -41,7 +41,7 @@ I also found this <a href="https://vimeo.com/183452561">wonderful video of Wolf 
 
 Continuing on, there were other points of geological interest along the way.
 
-<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-Z24sqxF/1/db0d6ce2/qMcw0XS0LRxnsOBEnTK5ddM1mhI%3D-1536702839-O/i-Z24sqxF.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-Z24sqxF/1/db0d6ce2/X2/20180903_141145-X2.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-L9qWvtB/1/1f20dc87/n%2BbmSeiyyF5TqVh60nQG0SXVoLI%3D-1539371393-O/i-L9qWvtB.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-L9qWvtB/1/1f20dc87/X2/20180903_141145-X2.jpg"/></a></figure>
 
 And more vistas to see.
 
@@ -51,4 +51,4 @@ And more vistas to see.
 
 We reached Sweet Home just in time for dinner and a root beer float, and I rolled into my driveway right as the sun set on a most excellent trip.
 
-<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-rjkBKkB/1/c9fea6ed/Y87MJtIMcw2d9whv5hNfigaXJwo%3D-1536702839-O/i-rjkBKkB.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-rjkBKkB/1/c9fea6ed/X2/20180903_193931-X2.jpg"/></a></figure>
+<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-54HWp2J/1/f7cdb43c/ooBfdOZyiMeu9WbMFuaoW%2AeBygg%3D-1539371393-O/i-54HWp2J.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-54HWp2J/1/f7cdb43c/XL/20180903_193931-XL.jpg"/></a></figure>
