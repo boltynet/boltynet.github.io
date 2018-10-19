@@ -23,6 +23,8 @@ navigation:
    url: /contact
  - title: SV650
    url: /sv650
+ - title: Travels
+   url: /blog/tag/travels
 
 social:
    rss: http://feeds.feedburner.com/bolty/feed

@@ -35,7 +35,7 @@ It was a **really** big rock. Very impressive. We marveled at it for a while and
 
 After we got back home, I did some research on Wolf Rock and found the following photo, which made me laugh.
 
-<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-bWMF4Lk/0/0b700bc5/L9ZNT78VYPK7sDDJH1h3JOyJXy4%3D-1536701433-O/i-bWMF4Lk.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-bWMF4Lk/0/0b700bc5/XL/wolf_rock_route-XL.jpg"/></a><caption>Photo credit: <a href="https://www.mountainproject.com/photo/112267011">Erik Keever</a></caption></figure>
+<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-bWMF4Lk/0/0b700bc5/L9ZNT78VYPK7sDDJH1h3JOyJXy4%3D-1536701433-O/i-bWMF4Lk.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-bWMF4Lk/0/0b700bc5/XL/wolf_rock_route-XL.jpg"/></a><figcaption>Photo credit: <a href="https://www.mountainproject.com/photo/112267011">Erik Keever</a></figcaption></figure>
 
 I also found this <a href="https://vimeo.com/183452561">wonderful video of Wolf Rock</a>, which shows off the scale of the thing.
 

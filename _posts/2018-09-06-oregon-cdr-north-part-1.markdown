@@ -15,20 +15,20 @@ My friend 10guy and I rode most of the Northern CDR over Labor Day Weekend, 2018
 
 I wasn't able to escape from cubicle prison until 1pm on Friday, but we eventually got underway and slabbed it from Albany to Mill City to Detroit Lake. We fueled up in Detroit and headed up NFS-46 and NFS-42 to Parkdale, which is just south of Hood River. The skies were blue and sunny, but it was pretty damn chilly riding at elevation at speed, and my DR200 developed an odd coughing issue just past Clackamas Lake Ranger Station.
 
-<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-dn4CRZf/1/960e0501/%2BL5fiakcBZq8LWkYGZtOwHFjvy0%3D-1536357566-O/i-dn4CRZf.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-dn4CRZf/1/960e0501/XL/20180831_163205-XL.jpg"/></a><caption><em>My DR200, aka "Boo"</em></caption></figure>
+<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-dn4CRZf/1/960e0501/%2BL5fiakcBZq8LWkYGZtOwHFjvy0%3D-1536357566-O/i-dn4CRZf.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-dn4CRZf/1/960e0501/XL/20180831_163205-XL.jpg"/></a><figcaption>My DR200, aka "Boo"</figcaption></figure>
 
 We ended up in Parkdale for no reason as someone never bothered to look at the map for the actual start of the CDR. (Oops, my bad!) Boo was still doing the weird surging thing under load and I was shivering with cold, but when it's a beautiful day with perfect blue skies and you're out riding, all is well in the world.
 
 We reached the CDR proper just before 6pm, and rode for about an hour before we started looking for a place to camp. Despite the holiday weekend, we found Gibson Horse Camp deserted. It turned out to be a nice spot: free, with a vault toilet and a nice clear spring for a water source.
 
 <figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-Gj8vpn2/0/e87f562b/tN5HKiTDOY9QpxXIQwr9goxmK8I%3D-1536357566-O/i-Gj8vpn2.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-Gj8vpn2/0/e87f562b/XL/20180901_074056-XL.jpg"/></a></figure>
-<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-jSpkN3d/0/cf77e407/QznoGaLNs%2BosoggCaeN9b1BShvU%3D-1536357566-O/i-jSpkN3d.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-jSpkN3d/0/cf77e407/XL/20180901_074213-XL.jpg"/></a><caption><em>10guy's pack mule would not be corralled!</em></caption></figure>
+<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-jSpkN3d/0/cf77e407/QznoGaLNs%2BosoggCaeN9b1BShvU%3D-1536357566-O/i-jSpkN3d.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-jSpkN3d/0/cf77e407/XL/20180901_074213-XL.jpg"/></a><figcaption>10guy's pack mule would not be corralled!</figcaption></figure>
 
 The statewide campfire ban made it hard for me to thaw out after the day's ride, but some warm food and good conversation kept my spirits up. We also had a chance to look at Boo and figured out that my chain had decided to start a-stretchin'. Once a chain starts to go, it really starts to go, so chain adjustment ended up being a constant during this trip.
 
 We rolled out late Saturday morning, and after a nice warmup on gravel, we finally hit the famed "GOOD BAD ROADS" of the CDR and they did not disappoint.
 
-<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-nHtKTQP/0/b702d7a7/H2DJ5mvUxoV9gnhYCkk0kUoQeiI%3D-1536357566-O/i-nHtKTQP.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-nHtKTQP/0/b702d7a7/XL/20180901_122717-XL.jpg"/></a><caption><em>Mt. Hood from Money Shot Point</em></caption></figure>
+<figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-nHtKTQP/0/b702d7a7/H2DJ5mvUxoV9gnhYCkk0kUoQeiI%3D-1536357566-O/i-nHtKTQP.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-nHtKTQP/0/b702d7a7/XL/20180901_122717-XL.jpg"/></a><figcaption>Mt. Hood from Money Shot Point</figcaption></figure>
 
 <figure><a href="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-WjLCtBx/0/2305c029/fCLc%2Ag99MD%2BSnXEZKyF6PSnsB8I%3D-1536357566-O/i-WjLCtBx.jpg"><img src="https://tbolt.smugmug.com/Motorcycles/Travels/201809-CDR-North/i-WjLCtBx/0/2305c029/XL/20180901_123655-XL.jpg"/></a></figure>
 
