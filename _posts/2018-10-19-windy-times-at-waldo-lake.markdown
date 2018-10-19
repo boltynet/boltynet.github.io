@@ -3,11 +3,11 @@ layout: post
 title: "Skewering Nemo, Or: Windy Times at Waldo Lake"
 date: 2018-10-19 14:45:00 -0700
 tags: [ travels, tiger-explorer ]
-description: "This should have been a routine camping trip: a quick jaunt up to Waldo Lake, taking advantage of some unseasonably beautiful weather to sneak in one last trip before the rainy season begins. But the wilderness had other plans."
+description: "This should have been a routine camping trip: a quick jaunt up to Waldo Lake, taking advantage of some unseasonably beautiful weather to sneak in one last trip before the rainy season began. But the wilderness had other plans."
 comments: true
 ---
 
-<p class="intro"><span class="dropcap">T</span>his should have been a routine camping trip: a quick jaunt up to Waldo Lake, taking advantage of some unseasonably beautiful weather to sneak in one last trip before the rainy season begins. But the wilderness had other plans.</p>
+<p class="intro"><span class="dropcap">T</span>his should have been a routine camping trip: a quick jaunt up to Waldo Lake, taking advantage of some unseasonably beautiful weather to sneak in one last trip before the rainy season began. But the wilderness had other plans.</p>
 
 I left work early in the afternoon, hopped on my loaded-up Beast, and rode out to meet my friend 10guy and his Ural rig. We made quick time to the lake via some slab and Hwy 58. I've put 3500 miles on Beast this summer and the bike is running like a top.
 
